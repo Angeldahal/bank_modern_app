@@ -1,5 +1,5 @@
 # Modern Bank App
-A banking ui app with next generation payment method. 
+A banking ui with next generation payment method. 
 
 ## Development
 To run the react app locally, run:
